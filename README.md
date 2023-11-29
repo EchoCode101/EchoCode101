@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hey there! 👋 I'm Hamza.
+I'm a passionate coding aficionado currently navigating the exciting realms of web-based and Android app development. 
 
-<!--
-**EchoCode101/EchoCode101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently honing my skills in 
+- HTML5, CSS, JS, PHP, MySQL, Ajex (as a Full-stack developer)
+- and diving into the intricacies of the Kotlin language for Android development. 📱
 
-Here are some ideas to get you started:
+### About Me
+- 👨‍🎓 Studying as an undergraduate at Government College University Faisalabad (GCUF).
+- 🏙️ Proudly hailing from Faisalabad, Pakistan.
+- 🌱 Currently Learning about Kotlin Language to build Android Applications and I'm also Eager to learn and merge myself with upcoming technologies.
+- 💡 Exploring the tech world to understand how things work behind the scenes.
+- 📫 How to reach me:
+    - My Github Profile : https://github.com/EchoCode101
+    - My Email Address : hamzasajjad.2020000071@gcuf.edu.pk
+- ⚡ Fun fact: I've spent more time customizing my IDE theme than I have on personal fashion choices.
+  
+### What I'm Up To
+- 🚀 I'm deeply immersed in web-based projects, crafting dynamic and interactive web applications.
+  - Additionally, I'm delving into the world of Android apps, leveraging Kotlin to create sleek and efficient mobile experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Aspirations
+- 🌐 I aspire to broaden my horizons, collaborating on innovative projects and contributing meaningfully to the tech community. Seeking to absorb knowledge, share insights, and explore emerging trends in the ever-evolving tech landscape.
+
+Feel free to connect, collaborate, or just chat about the latest advancements in the tech realm! Let's learn and grow together! 🌟
